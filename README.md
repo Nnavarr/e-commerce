@@ -2,6 +2,8 @@
 
 The project is a sample back-end for an e-commerce site that uses a MySQL DB along with Sequelize as the Object Relational Mapper. Essentially, once paired with express.js and REST API endpoints, the user has the ability to perform Create, Read, Update, and Delete (CRUD) operations which will reflect within the MySQL DB. The project is set-up in a way to scale for increased complexity as the site builds in complexity.
 
+![api-pic](assets/pictures/insomnia_pic.png)
+
 ### Usage
 While the project does not have a front-end attached, the user can simulate and test the CRUD functionality by using an API endpoint tester like Insomnia. Here, the user can perform various operations for the existing database tables: 
 
