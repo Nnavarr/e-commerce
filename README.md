@@ -13,6 +13,9 @@ While the project does not have a front-end attached, the user can simulate and 
 
 The endpoints and their functionality can be found within the individual api route files **'routes/api/*enter type*'**
 
+#### Usage Video
+A video with the API functionality can be seen [here](https://watch.screencastify.com/v/ANpYUVb5Mcpjn3qD0ziq)
+
 #### DB Connection
 Once the repo is copied to a local directory, the user will need to ensure MySQL and a .env file containing database connection variables per the config/connection.js file are calibrated accordingly. Once connected, the user can run the following to create and seed the database.
 
